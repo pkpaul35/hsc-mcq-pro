@@ -1,0 +1,6 @@
+{
+  "appId": "com.mcqmasterbd.app",
+  "appName": "HSC MCQ Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
